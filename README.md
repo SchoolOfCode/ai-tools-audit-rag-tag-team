@@ -30,6 +30,8 @@ Based on our evaluation, we recommend that TechForge Industries adopt these thre
 
 3. 🎨 **Gamma**: Integrate into the design and marketing workflows for boosting design ideation and improving visual presentations. Estimated 40% reduction in time spent on initial design concepts and mockups.
 
+Copilot/Cursor and Prezi/Gamma, are direct alternatives to each other and would see little benefit using both together. Whereas Notion/Figma offer different benefits that may make it worth considering using both in conjuction.
+
 To ensure successful integration and maximize the benefits of these tools, we recommend:
 
 - 📚 Developing clear usage guidelines and best practices for each tool
@@ -40,4 +42,4 @@ To ensure successful integration and maximize the benefits of these tools, we re
 
 By adopting these AI tools and following our recommendations, TechForge Industries can significantly enhance its operational efficiency, foster innovation, and maintain a competitive edge in the rapidly evolving software development landscape.
 
-🔍 The full detailed analysis of each tool can be found in the accompanying `planning.md` document.
+🔍 The full detailed analysis of each tool can be found in the accompanying `.md` documents within the `plan` folder.

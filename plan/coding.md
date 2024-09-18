@@ -1,10 +1,8 @@
 # Coding AI tools
 
-# Coding AI tools
-
 AI Tools Evaluation: GitHub Copilot vs. Cursor
 
-GitHub Copilot
+## GitHub Copilot
 
 A. Opportunity
 
@@ -25,7 +23,7 @@ D. Evaluation
 
 GitHub Copilot would undoubtedly be an upgrade for any company looking to increase productivity. It is widely used among developers in the tech industry, offering an accessible and effective solution for AI-assisted coding.
 
-Cursor
+## Cursor
 
 A. Opportunity
 
